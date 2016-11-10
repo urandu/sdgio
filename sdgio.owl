@@ -9,22 +9,7 @@
      xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
      xmlns:obo="http://purl.obolibrary.org/obo/">
-    <owl:Ontology rdf:about="http://purl.unep.org/sdg/sdgio.owl">
-        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">This is the Sustainable Development Goals Interface Ontology (SDGIO) developed to support the realisation of the SDGs by providing a semantically coherent representations of relevant entities.</rdfs:comment>
-        <owl:imports rdf:resource="http://purl.unep.org/sdg/imports/bfo_import.owl"/>
-        <owl:imports rdf:resource="http://purl.unep.org/sdg/imports/chebi_import.owl"/>
-        <owl:imports rdf:resource="http://purl.unep.org/sdg/imports/envo_import.owl"/>
-        <owl:imports rdf:resource="http://purl.unep.org/sdg/imports/iao_import.owl"/>
-        <owl:imports rdf:resource="http://purl.unep.org/sdg/imports/ncbitaxon_import.owl"/>
-        <owl:imports rdf:resource="http://purl.unep.org/sdg/imports/obi_import.owl"/>
-        <owl:imports rdf:resource="http://purl.unep.org/sdg/imports/pato_import.owl"/>
-        <owl:imports rdf:resource="http://purl.unep.org/sdg/imports/pco_import.owl"/>
-        <owl:imports rdf:resource="http://purl.unep.org/sdg/imports/ro_import.owl"/>
-        <owl:imports rdf:resource="http://purl.unep.org/sdg/imports/uberon_import.owl"/>
-        <owl:versionIRI rdf:resource="http://purl.unep.org/sdg/releases/2016-02-19/sdgio.owl"/>
-    </owl:Ontology>
     
-
 
     <!-- 
     ///////////////////////////////////////////////////////////////////////////////////////
