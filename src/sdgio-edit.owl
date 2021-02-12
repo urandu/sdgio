@@ -1,4 +1,4 @@
-Prefix(:=<http://purl.unep.org/sdg/sdgio.owl/>)
+Prefix(:=<https://raw.githubusercontent.com/urandu/sdgio/master/src/sdgio-edit.owl/>)
 Prefix(owl:=<http://www.w3.org/2002/07/owl#>)
 Prefix(rdf:=<http://www.w3.org/1999/02/22-rdf-syntax-ns#>)
 Prefix(xml:=<http://www.w3.org/XML/1998/namespace>)
